@@ -1,4 +1,4 @@
-FROM python:3.14.1-alpine3.22
+FROM python:alpine3.22
 
 RUN mkdir /data && \
     mkdir /igel
